@@ -12,4 +12,4 @@ H1 Python
 A streaming video company, Codeflix, needs your help analyzing their user data. We’ve imported a portion of their dataset into the SQL workspace for this lesson.
 
 >1. Use COUNT() and a LIKE operator to determine the number of users that have an email ending in ‘.com’.
->https://gist.github.com/d87d93d46957c48e9aba929d716f8565
+<script src="https://gist.github.com/codecademydev/d87d93d46957c48e9aba929d716f8565.js"></script>
